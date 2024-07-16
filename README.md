@@ -3,6 +3,7 @@
 <h2>👨‍💻 Data Analyst Project:</h2>
 - <a href="https://github.com/nickzadpratama/Shiny-Application-and-Reproducible-Pitch">Shiny Application and Reproducible Pitch</a><br>
 - <a href="https://github.com/nickzadpratama/Getting-and-Cleaning-Data-Course-Project">Getting and Cleaning Data with R</a><br>
+- <a href="https://github.com/nickzadpratama/Web-Streamlit">Dashboard Streamlit</a>
 
 <h2>📄 Certifications</h2>
 - <a href="https://learn.microsoft.com/id-id/users/nickzadpratama-3297/credentials/5b5ffe9daaf48651?ref=https%3A%2F%2Fwww.linkedin.com%2F">Microsoft Certified: Power BI Data Analyst Associate</a><br>
