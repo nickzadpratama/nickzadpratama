@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nickzad! <br/><a href="https://github.com/nickzadpratama">Programmer</a>, <a href="https://www.linkedin.com/in/nickzad-pratama/">Data Analyst</a></h1>
+<h1>Hi, I'm Nickzad! <br/><a href="https://www.linkedin.com/in/nickzad-pratama/">Data Analyst</a>, <a href="https://github.com/nickzadpratama">Programming</a></h1>
 
 <h2>👨‍💻 Data Analyst Project:</h2>
 
