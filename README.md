@@ -6,6 +6,7 @@
 - <a href="https://github.com/nickzadpratama/Web-Streamlit">Dashboard with Python Streamlit</a>
 
 <h2>📄 Certifications</h2>
+- <a href="https://drive.google.com/file/d/1zqzOASxKheqB4-Nu4kiKxZs_Y30yoh0S/view?usp=sharing">Data Scientist Competency Statement — LSP Digital Kreatif Solusi</a><br>
 - <a href="https://learn.microsoft.com/id-id/users/nickzadpratama-3297/credentials/5b5ffe9daaf48651?ref=https%3A%2F%2Fwww.linkedin.com%2F">Microsoft Certified: Power BI Data Analyst Associate</a><br>
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/VCHBCZ6BCTD7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof">Google Data Analytics</a><br>
 - <a href="https:https://www.coursera.org/account/accomplishments/specialization/HZ6BL8Q4GHYA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n">Data Science</a><br>
